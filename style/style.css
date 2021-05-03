@@ -3,6 +3,11 @@ header{
     color: whitesmoke;
 }
 
+button{
+    background-color: darkblue;
+    color: whitesmoke;
+}
+
 footer{
     background-color: cornflowerblue;
 }
